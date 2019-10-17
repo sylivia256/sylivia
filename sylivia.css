@@ -1,0 +1,31 @@
+.heading1{
+    border:20px solid red;
+    color:rgb(82, 13, 13);
+    background-color: salmon;
+    padding: 20px;
+}
+.heading2{
+    border: rgb(47, 146, 53);
+    background-color: rgb(99, 90, 90);
+    padding: 40px;
+}
+a:link{
+    display:flex;
+    text-decoration: none;
+    color:brown;
+    font-size: 24px;
+}
+.up{
+    display: flex;
+    
+
+}
+ ul{
+     display: flex;
+     text-decoration: none;
+ }   
+
+    
+    
+
+    
